@@ -29,6 +29,5 @@ body {
 }
 
 .button-holder {
-    padding-right: 40%;
-    padding-left: 45%;
+    align-content: center;
 }
