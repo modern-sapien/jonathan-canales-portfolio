@@ -28,6 +28,10 @@ body {
     padding-top: 18%;
 }
 
-.button-holder {
-    align-content: center;
+.modern-sapien-btn {
+    background: blueviolet;
+    border: black;
+    color: cornsilk;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px -1px whitesmoke;
 }

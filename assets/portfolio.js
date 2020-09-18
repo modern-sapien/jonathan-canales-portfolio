@@ -19,12 +19,12 @@ var projectBtn = $("#projects-button");
 
 console.log("ready to do things");
 
-// PROJECTS BUTTON CLICK LISTENER
-projectBtn.on("click", function()   {
-    console.log("I've been clicked!!!")
-    leftContainer.empty();
-    rightContainer.empty();
-});
+// // PROJECTS BUTTON CLICK LISTENER
+// projectBtn.on("click", function()   {
+//     console.log("I've been clicked!!!")
+//     leftContainer.empty();
+//     rightContainer.empty();
+// });
 
 
 
