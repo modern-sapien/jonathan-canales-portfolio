@@ -1,6 +1,27 @@
+html{
+    height:    100%;
+}
 body {
     background: black;
 }
+
+
+main {
+    min-height: calc(100vh - 78px - 56px);
+}
+
+a:link {
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 16px;
+  }
+a:visited {
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 16px;
+  }
 
 .dark-mode-nav{
     background: rgb(27, 27, 27);
@@ -34,4 +55,10 @@ body {
     color: cornsilk;
     font-weight: bold;
     box-shadow: 2px 2px 5px -px whitesmoke;
+}
+
+.footer {
+margin-top: auto;
+height: 50px;
+width: 100%;
 }
